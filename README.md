@@ -4,6 +4,4 @@
 
 http://bit.ly/iut-4
 
-blabla
-
-TEEEEEEEEEEEEEEEEEEEEEEEESSSSSSSSSSSSST
+salut !
